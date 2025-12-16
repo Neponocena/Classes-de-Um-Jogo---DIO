@@ -1,0 +1,14 @@
+C:\Users\45319282885\ClassesDeUmJogo\bin\Debug\net10.0\ClassesDeUmJogo.exe
+C:\Users\45319282885\ClassesDeUmJogo\bin\Debug\net10.0\ClassesDeUmJogo.deps.json
+C:\Users\45319282885\ClassesDeUmJogo\bin\Debug\net10.0\ClassesDeUmJogo.runtimeconfig.json
+C:\Users\45319282885\ClassesDeUmJogo\bin\Debug\net10.0\ClassesDeUmJogo.dll
+C:\Users\45319282885\ClassesDeUmJogo\bin\Debug\net10.0\ClassesDeUmJogo.pdb
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.AssemblyInfoInputs.cache
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.AssemblyInfo.cs
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.csproj.CoreCompileInputs.cache
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.dll
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\refint\ClassesDeUmJogo.dll
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.pdb
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ClassesDeUmJogo.genruntimeconfig.cache
+C:\Users\45319282885\ClassesDeUmJogo\obj\Debug\net10.0\ref\ClassesDeUmJogo.dll
